@@ -34,13 +34,13 @@ pip install python-dotenv
 ```
 
 ## 6. .envファイルを作成し以下のように記述
-CLIENT_ID="kingoftimeのid"
-CLIENT_SECRET="kingoftimeのパスワード"
-CLIENT_START_TIME="開始時間"
-CLIENT_START_BREAK="休憩開始時間"
-CLIENT_END_BREAK="休憩終了時間"
-CLIENT_END_TIME="退勤時間"
-CLIENT_MESSAGE="入力するメッセージ"
+CLIENT_ID="kingoftimeのid"  
+CLIENT_SECRET="kingoftimeのパスワード"  
+CLIENT_START_TIME="開始時間"  
+CLIENT_START_BREAK="休憩開始時間"  
+CLIENT_END_BREAK="休憩終了時間"  
+CLIENT_END_TIME="退勤時間"  
+CLIENT_MESSAGE="入力するメッセージ"  
 
 ## 7. スクリプトの実行
 ```bash
